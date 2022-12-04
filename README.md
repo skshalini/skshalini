@@ -1,11 +1,12 @@
 👋 Hi, I’m Shalini Kumari
+- 🌱 I’m currently working on Laravel.
 - 🌱 I’m currently learning MERN stack.
 - 💬 Ask me about PHP, C++, Database.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I can eat for hours but still feel hungry.
   
   
- <img src ="https://github-readme-stats.vercel.app/api?username=skshalini&theme=merko&show_icons=true">
+ <img src ="https://github-readme-stats.vercel.app/api?username=skshalini&theme=radical&show_icons=true">
 
 
 <!---
