@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I can eat for hours but still feel hungry.
   
   
- <img src ="https://github-readme-stats.vercel.app/api?username=skshalini&theme=radical&show_icons=true">
+ <img src ="https://github-readme-stats.vercel.app/api?username=skshalini&theme=radical">
 
 
 <!---
