@@ -1,7 +1,8 @@
 👋 Hi, I’m Shalini Kumari
-- 🌱 I’m currently working on Laravel.
-- 🌱 I’m currently learning MERN stack.
-- 💬 Ask me about PHP, C++, Database.
+- 🌱 I had currently worked on PHP(Bakend).
+- 🌱 Now, I'm available to start working on React Js(Frontend) 
+- 🌱 Aim to became a Full stack Developer.
+- 💬 Ask me about PHP, MySQL, Database and React Js.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I can eat for hours but still feel hungry.
   
