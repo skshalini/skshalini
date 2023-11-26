@@ -1,8 +1,8 @@
 👋 Hi, I’m Shalini Kumari
-- 🌱 I had currently worked on PHP(Bakend).
-- 🌱 Now, I'm available to start working on React Js(Frontend) 
-- 🌱 Aim to became a Full stack Developer.
-- 💬 Ask me about PHP, MySQL, Database and React Js.
+- 🌱 I had worked on PHP(Bakend).
+- 🌱 I'm available to working on Management role or Frontend development
+- 🌱 Aim to became a Program Manager Or Project Manager.
+- 💬 Ask me about PHP, MySQL, Database and HTML & CSS.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I can eat for hours but still feel hungry.
   
